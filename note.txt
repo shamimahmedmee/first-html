@@ -1,0 +1,16 @@
+<<doctype html>
+<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	</head>
+	<body>
+		<h1> my name is mohammad shamim ahmed</h1>
+		<h2> I am learning full stack web development</h2>
+		<h3> Full-stack web development is the practice of building and maintaining both the front-end </h3>
+		<p> Learning full-stack web development empowers you to build complete web applications from scratch, giving you the versatility to work on both the front-end and back-end. It's a valuable skill set that opens doors to diverse opportunities in the tech industry, allowing you to bring ideas to life and contribute meaningfully to projects of any scale. </p>
+
+	</body>
+
+</html>
